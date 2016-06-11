@@ -8,7 +8,7 @@ using System.Web.Http;
 using System.Web.OData.Builder;
 using System.Web.OData.Extensions;
 
-//this is the comment
+
 namespace OwinMidware
 {
     public class Startup
